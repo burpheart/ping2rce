@@ -4,6 +4,7 @@
 一道简单的环境变量注入题 
 # bulid
 docker build -t pingrce . 
+
 docker run -d -p801:18000 pingrce
 
 
