@@ -1,11 +1,11 @@
-# ping2rce  WEBÌâÄ¿»·¾³ 
-##### (2022 ISCC ÀŞÌ¨Èü WEB 2)
-##### ³öÌâÈË:³È×Ó½´
-Ò»µÀ¼òµ¥µÄ»·¾³±äÁ¿×¢ÈëÌâ 
+# ping2rce  WEBé¢˜ç›®ç¯å¢ƒ 
+##### (2022 ISCC æ“‚å°èµ› WEB 2)
+##### å‡ºé¢˜äºº:æ©™å­é…± (burpheart)
+ä¸€é“ç®€å•çš„ç¯å¢ƒå˜é‡æ³¨å…¥é¢˜ 
 # bulid
 docker build -t pingrce . 
 docker run -d -p801:18000 pingrce
 
 
-[³öÌâÈËwritup](https://rce.moe/2022/05/25/ping2rce-writeup-goahead-environment-variable-inject-bash-hijack/)
+[å‡ºé¢˜äººwritup](https://rce.moe/2022/05/25/ping2rce-writeup-goahead-environment-variable-inject-bash-hijack/)
 
