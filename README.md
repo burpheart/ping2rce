@@ -2,7 +2,7 @@
 ##### (2022 ISCC 擂台赛 WEB 2)
 ##### 出题人:橙子酱 (burpheart)
 一道简单的环境变量注入题 
-# bulid
+# build
 docker build -t pingrce . 
 
 docker run -d -p801:18000 pingrce
