@@ -1,4 +1,5 @@
 FROM centos:8
+MAINTAINER burpheart <i@rce.moe>
 WORKDIR /app/
 COPY ./flag /flag
 COPY ./app/ /app/
